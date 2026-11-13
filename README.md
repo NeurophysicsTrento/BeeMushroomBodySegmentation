@@ -8,7 +8,7 @@ Neural correlates for neonicotinoid-induced impairment of olfactory long-term me
 The code was developed for two related imaging workflows:
 
 1. **Two-photon imaging** — segmentation and characterization of **microglomeruli (MGs)** within a manually defined mushroom-body lip region.
-2. **STED imaging** — segmentation and characterization of **MGs**, followed by segmentation of smaller **synapsin-positive units (SPUs)** within each MG. SPUs are interpreted as putative single synaptic units.
+2. **STED imaging** — segmentation and characterization of **MGs**, followed by segmentation of smaller **synapsin-positive units (SPUs)** within each MG. SPUs are the size of individual synapses.
 
 The scripts use repeated intensity thresholding together with 3D connected-component analysis to identify structures that persist across thresholds. Objects are filtered by size and merged/rejected according to spatial-overlap criteria before morphometric quantities are calculated.
 
