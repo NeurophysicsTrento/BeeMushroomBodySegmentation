@@ -3,7 +3,7 @@
 This repository contains MATLAB scripts for 3D segmentation and morphometric analysis of synaptic structures in the honey bee mushroom body (MB), accompanying the following publication:
 
 Cabirol, A.; Paoli, M.; Fehrmann, A., Calliari, N.; Fayolle, M.; Bariselli, S.; Schloetel, J.-G.; Haase, A. 
-Neural correlates for neonicotinoid-induced impairment of olfactory long-term memory. bioRxiv 2022, 2022.05.04.489639. https://www.biorxiv.org/content/10.1101/2022.05.04.489639
+Neural correlates for neonicotinoid-induced impairment of olfactory long-term memory. bioRxiv 2026, 2022.05.04.489639. https://www.biorxiv.org/content/10.1101/2022.05.04.489639
 
 The code was developed for two related imaging workflows:
 
@@ -568,7 +568,7 @@ These points do not change the segmentation logic, but should be considered when
 
 If you use this code in a publication, please cite the corresponding study:
 
-Cabirol, A.; Calliari, N.; Fayolle, M.; Bariselli, S.; Schloetel, J.-G.; Haase, A. Neural correlates for neonicotinoid-induced impairment of olfactory long-term memory. bioRxiv 2022, 2022.05.04.489639. https://www.biorxiv.org/content/10.1101/2022.05.04.489639
+Cabirol, A.; Calliari, N.; Fayolle, M.; Bariselli, S.; Schloetel, J.-G.; Haase, A. Neural correlates for neonicotinoid-induced impairment of olfactory long-term memory. bioRxiv 2026, 2022.05.04.489639. https://www.biorxiv.org/content/10.1101/2022.05.04.489639
 
 ---
 
